@@ -1,6 +1,6 @@
 ---
 name: Sang-Woon Jeon
-image: images/professor.jpg
+image: images/photo.jpg
 role: pi
 affiliation:Hanyang University
 aliases:
