@@ -1,12 +1,11 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to Hanyang ICT lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The ICT Lab at Hanyang University is headed by Professor Sang-Woon Jeon. The main research direction of our lab is AI-enabled communication systems. Caching and computing for big data applications and Advanced communication techniques for 5G and internet of things
 
-{%
+/#{%
   include button.html
   type="docs"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
@@ -16,7 +15,7 @@ Spend less time worrying about managing a website and citations, and more time r
   type="github"
   text="On GitHub"
   link="greenelab/lab-website-template"
-%}
+%}#/
 
 {% include section.html %}
 
@@ -24,12 +23,12 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our international research team comprises graduate students, doctoral candidates, and postdoctoral researchers from various countries.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="team"
+  text="See our members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/members.jpg"
+  link="team"
+  title="Our members"
   text=text
 %}
 
