@@ -1,8 +1,8 @@
 ---
 name: Sang-Woon Jeon
 image: images/professor.jpg
-description: Lead Programmer
-role: programmer
+affiliation: Hanyang University
+role: professor
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
