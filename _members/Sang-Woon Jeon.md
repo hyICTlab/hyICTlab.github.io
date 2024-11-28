@@ -1,11 +1,11 @@
 ---
 name: Sang-Woon Jeon
 image: images/professor.jpg
-role: Professor
-affiliation:
-{Department of Military Information Engineering (Undergraduate)
-Department of Electrical and Electronic Engineering (Graduate)
-Hanyang University}
+role: prof
+
+affiliation:Hanyang University
+aliases:
+  - S.-W. Jeon
 
 links:
   home-page: https://sites.google.com/site/swjeonweb/
