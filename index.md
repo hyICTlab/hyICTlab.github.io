@@ -5,21 +5,9 @@
 
 The ICT Lab at Hanyang University is headed by Professor Sang-Woon Jeon. The main research direction of our lab is AI-enabled communication systems. Caching and computing for big data applications and Advanced communication techniques for 5G and internet of things
 
-/#{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}#/
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
