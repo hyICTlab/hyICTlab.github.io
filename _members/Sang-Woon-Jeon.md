@@ -10,29 +10,29 @@ links:
 ---
 
 # Research Areas:
-  ## AI-based network management:
+## AI-based network management:
 
-    Multiple-access via reinforcement learning 
+Multiple-access via reinforcement learning 
 
-    Learning-based distributed resource management
+Learning-based distributed resource management
 
-    Learning-based V2X and V2V communication
+Learning-based V2X and V2V communication
 
-  ## Caching and computing for big data applications:
+## Caching and computing for big data applications:
 
-    Wireless caching 
+Wireless caching 
 
-    Computation over networks
+Computation over networks
 
-    Adaptation and learning via big data
+Adaptation and learning via big data
 
-  ## Advanced communication techniques for 5G and internet of things:
+## Advanced communication techniques for 5G and internet of things:
 
-    Fog multiple-access
+Fog multiple-access
 
-    Interference management for full-duplex radio
+Interference management for full-duplex radio
 
-    IoT platform 
+IoT platform 
 
 Phone: +82-31-400-5918
 

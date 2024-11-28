@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab has undertaken various nationally and industry-funded projects, focusing on cutting-edge research and development in AI-enabled communication, 5G/6G network optimization, wireless caching and computing, large-scale IoT technologies, as well as maritime and defense communications.
 
 {% include tags.html tags="publication, resource, website" %}
 
