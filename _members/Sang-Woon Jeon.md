@@ -3,7 +3,7 @@ name: Sang-Woon Jeon
 image: images/professor.jpg
 affiliation: Hanyang University
 role: professor
-Contact:
+links:
   Homepage: https://scholar.google.com.hk/citations?user=8dnrnzsAAAAJ
   
   E-mail: sangwoonjeon@hanyang.ac.kr
