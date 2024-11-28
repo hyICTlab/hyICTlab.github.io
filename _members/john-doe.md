@@ -1,10 +1,10 @@
 ---
 name: Sang-Woon Jeon
 image: images/professor.jpg
-role: pro
+role: pi
 affiliation:Hanyang University
 aliases:
-  - S.-W. Jeon
+  - 'S.-W. Jeon'
 links:
   home-page: https://sites.google.com/site/swjeonweb/
   Phone: +82-31-400-5918
