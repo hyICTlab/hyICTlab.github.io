@@ -7,10 +7,9 @@ links:
   home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: sangwoonjeon@hanyang.ac.kr
 ---
-
+{
 # Research Areas:
 ## AI-based network management:
-
     Multiple-access via reinforcement learning 
 
     Learning-based distributed resource management
@@ -31,7 +30,7 @@ links:
 
     Interference management for full-duplex radio
 
-    IoT platform 
+    IoT platform }
 
 Phone: +82-31-400-5918
 
