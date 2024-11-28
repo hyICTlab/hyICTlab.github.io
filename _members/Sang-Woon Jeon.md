@@ -3,19 +3,16 @@ name: Sang-Woon Jeon
 image: images/professor.jpg
 affiliation: Hanyang University
 role: professor
-links:
-  home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
-  email: sangwoonjeon@hanyang.ac.kr
-
-
-
-
-
-
-
-
-
-
+Contact:
+  Homepage: https://scholar.google.com.hk/citations?user=8dnrnzsAAAAJ
+  
+  E-mail: sangwoonjeon@hanyang.ac.kr
+  
+  Phone: +82-31-400-5918
+    
+  Fax: +82-31-436-8146
+    
+  Office: Room 308, Engineering Building III, Hanyang University 55 Hanyangdeahak-ro, Sangnok-gu, Ansan, Gyeonggi-do, South Korea
 ---
 
 # Research Areas:
@@ -25,8 +22,4 @@ links:
 
 **Advanced communication techniques for 5G and internet of things:** Fog multiple-access, Interference management for full-duplex radio, IoT platform 
 
-**Phone:** +82-31-400-5918
 
-**Fax:** +82-31-436-8146
-
-**Office:** Room 308, Engineering Building III, Hanyang University 55 Hanyangdeahak-ro, Sangnok-gu, Ansan, Gyeonggi-do, South Korea
