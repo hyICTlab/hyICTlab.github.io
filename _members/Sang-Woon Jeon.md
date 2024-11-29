@@ -21,10 +21,10 @@ links:
 1. Computation over networks
 1. Adaptation and learning via big data
 
-<div style="margin-left: 18px; font-weight: bold;"> Advanced communication techniques for 5G and internet of things </div>
-<div style="margin-left: 18px;"> 1. Fog multiple-access </div>
-<div style="margin-left: 18px;"> 2. Interference management for full-duplex radio </div>
-<div style="margin-left: 18px;"> 3. IoT platform  </div>
+<div style="margin-left: 10px; font-weight: bold;"> Advanced communication techniques for 5G and internet of things </div>
+<div style="margin-left: 10px;"> 1. Fog multiple-access </div>
+<div style="margin-left: 10px;"> 2. Interference management for full-duplex radio </div>
+<div style="margin-left: 10px;"> 3. IoT platform  </div>
 
 
 
