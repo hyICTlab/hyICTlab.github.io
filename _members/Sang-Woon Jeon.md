@@ -8,29 +8,23 @@ links:
   email: sangwoonjeon@hanyang.ac.kr
 ---
 ## Research Areas
-
 **AI-based network management**
   - Multiple-access via reinforcement learning
   - Learning-based distributed resource management
   - Learning-based V2X and V2V communication
-
 **Caching and computing for big data applications**
   - Wireless caching
   - Computation over networks
   - Adaptation and learning via big data
-
 **Advanced communication techniques for 5G and internet of things**
   - Fog multiple-access
   - Interference management for full-duplex radio
   - IoT platform
 
-<div style="margin-left: 20px;">
 
-Department of Military Information Engineering (Undergraduate)
+                                 Department of Military Information Engineering (Undergraduate)
 
-Department of Electrical and Electronic Engineering (Graduate)
+                                Department of Electrical and Electronic Engineering (Graduate)
 
-Hanyang University
-
-</div>
+                                Hanyang University
 
