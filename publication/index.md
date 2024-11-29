@@ -107,3 +107,64 @@ nav:
 7. D. K. P. Asiedu, S. Mahama, S.-W. Jeon, and K.-J. Lee, “[Optimal power splitting for simultaneous wireless information and power transfer in amplify-and-forward multiple-relay systems](https://ieeexplore.ieee.org/abstract/document/8274932),” *IEEE Access*, vol. 6, pp. 3459–3468, Jan. 2018.
 
 8. S.-W. Jeon and B. C. Jung, “[Adaptive analog function computation via fading multiple-access channels](https://ieeexplore.ieee.org/abstract/document/8086203),” *IEEE Communications Letters*, vol. 22, no. 1, pp. 213–216, Jan. 2018.
+
+1. J. Yoon, W.-Y. Shin, and S.-W. Jeon, “[Elastic routing in wireless ad hoc networks with directional antennas](https://ieeexplore.ieee.org/abstract/document/7904719),” *IEEE Transactions on Mobile Computing*, vol. 16, no. 12, pp. 3334–3346, Dec. 2017.
+
+2. S. H. Chae and S.-W. Jeon, “[Two-stage interference management for multicell multi-antenna cellular downlink systems](https://ieeexplore.ieee.org/abstract/document/7930385),” *IEEE Communications Letters*, vol. 21, no. 8, pp. 1807–1810, Aug. 2017.
+
+3. S.-W. Jeon, K. Kim, J. Yang, and D. K. Kim, “[The feasibility of interference alignment for MIMO interfering broadcast-multiple-access channels](https://ieeexplore.ieee.org/abstract/document/7924412),” *IEEE Transactions on Wireless Communications*, vol. 16, no. 7, pp. 4614–4625, Jul. 2017.
+
+4. M. Yang, S.-W. Jeon, and D. K. Kim, “[Degrees of freedom of full-duplex cellular networks with reconfigurable antennas at base station](https://ieeexplore.ieee.org/abstract/document/7876854),” *IEEE Transactions on Wireless Communications*, vol. 16, no. 4, pp. 2314–2326, Apr. 2017.
+
+5. S.-H. Lee, B. C. Jung, and S.-W. Jeon, “[Successive interference cancellation with feedback for random access networks](https://ieeexplore.ieee.org/abstract/document/7792181),” *IEEE Communications Letters*, vol. 21, no. 4, pp. 825–828, Apr. 2017.
+
+6. S.-W. Jeon, S.-N. Hong, M. Ji, G. Caire, and A. Molisch, “[Wireless multihop device-to-device caching networks](https://ieeexplore.ieee.org/abstract/document/7820112),” *IEEE Transactions on Information Theory*, vol. 63, no. 3, pp. 1662–1676, Mar. 2017.
+
+7. M. Yang, S.-W. Jeon, and D. K. Kim, “[Linear degrees of freedom of MIMO broadcast channels with reconfigurable antennas in the absence of CSIT](https://ieeexplore.ieee.org/abstract/document/7731221),” *IEEE Transactions on Information Theory*, vol. 63, no. 1, pp. 320–335, Jan. 2017.
+
+8. S. H. Chae, S.-W. Jeon, and S. H. Lim, “[Fundamental limits of spectrum sharing full-duplex multicell networks](https://ieeexplore.ieee.org/abstract/document/7583727),” *IEEE Journal on Selected Areas in Communications*, vol. 34, no. 11, pp. 3048–3061, Nov. 2016.
+
+9. S.-W. Jeon, S. Choi, J. Kim, and W.-Y. Shin, “[Cellular-aided device-to-device communication: The benefit of physical layer network coding](https://ieeexplore.ieee.org/abstract/document/7551235),” *IEEE Communications Letters*, vol. 20, no. 11, pp. 2324–2327, Nov. 2016.
+
+1. S.-W. Jeon and C. Suh, “[Degrees of freedom of uplink–downlink multiantenna cellular networks](https://ieeexplore.ieee.org/abstract/document/7406743),” *IEEE Transactions on Information Theory*, vol. 62, no. 8, pp. 4589–4603, Aug. 2016.
+
+2. S.-W. Jeon and B. C. Jung, “[Opportunistic function computation for wireless sensor networks](https://ieeexplore.ieee.org/abstract/document/7416247),” *IEEE Transactions on Wireless Communications*, vol. 15, no. 6, pp. 4045–4059, Jun. 2016.
+
+3. V. V. Mai, J. Kim, S.-W. Jeon, S. W. Choi, B. Seo, and W.-Y. Shin, “[Degrees of freedom of millimeter wave full-duplex systems with partial CSIT](https://ieeexplore.ieee.org/abstract/document/7422688),” *IEEE Communications Letters*, vol. 20, no. 5, pp. 1042–1045, May 2016.
+
+4. H. Jin, S.-W. Jeon, and B. C. Jung, “[Opportunistic interference alignment for random access networks](https://ieeexplore.ieee.org/abstract/document/7004046),” *IEEE Transactions on Vehicular Technology*, vol. 64, no. 12, pp. 5947–5954, Dec. 2015.
+
+5. S.-W. Jeon, S. H. Lim, and B. C. Jung, “[Opportunistic noisy network coding for fading relay networks without CSIT](https://ieeexplore.ieee.org/abstract/document/7140834),” *IEEE Transactions on Wireless Communications*, vol. 14, no. 11, pp. 6097–6110, Nov. 2015.
+
+6. K. Kim, S.-W. Jeon, and D. K. Kim, “[The feasibility of interference alignment for full-duplex MIMO cellular networks](https://ieeexplore.ieee.org/abstract/document/7150534),” *IEEE Communications Letters*, vol. 19, no. 9, pp. 1500–1503, Sep. 2015.
+
+7. J. Jang, S.-W. Jeon, H. Chae, H.-S. Cha, and D. K. Kim, “[Low complexity zero-forcing precoder design under per-antenna power constraints](https://ieeexplore.ieee.org/abstract/document/7104128),” *IEEE Communications Letters*, vol. 19, no. 9, pp. 1556–1559, Sep. 2015.
+
+8. C.-Y. Wang, S.-W. Jeon, and M. Gastpar, “[Interactive computation of type-threshold functions in collocated Gaussian networks](https://ieeexplore.ieee.org/abstract/document/7155532),” *IEEE Transactions on Information Theory*, vol. 61, no. 9, pp. 4765–4775, Sep. 2015.
+
+9. S.-W. Jeon and M. Gastpar, “[Capacity scaling of cognitive networks: Beyond interference-limited communication](https://ieeexplore.ieee.org/abstract/document/6932426),” *IEEE Transactions on Information Theory*, vol. 60, no. 12, pp. 7824–7840, Dec. 2014.
+
+1. S.-W. Jeon, C.-Y. Wang, and M. Gastpar, “[Computation over Gaussian networks with orthogonal components](https://ieeexplore.ieee.org/abstract/document/6935087),” *IEEE Transactions on Information Theory*, vol. 60, no. 12, pp. 7841–7861, Dec. 2014.
+
+2. S.-W. Jeon, K. Jung, and H. Chang, “[Fully distributed algorithms for minimum delay routing under heavy traffic](https://ieeexplore.ieee.org/abstract/document/6654130),” *IEEE Transactions on Mobile Computing*, vol. 13, no. 5, pp. 1048–1060, May 2014.
+
+3. S.-W. Jeon, C.-Y. Wang, and M. Gastpar, “[Approximate ergodic capacity of fading two-user two-hop networks](https://ieeexplore.ieee.org/abstract/document/6678311),” *IEEE Transactions on Information Theory*, vol. 60, no. 2, pp. 866–880, Feb. 2014.
+
+4. S.-W. Jeon and S.-Y. Chung, “[Capacity of a class of linear binary field multisource relay networks](https://ieeexplore.ieee.org/abstract/document/6532310),” *IEEE Transactions on Information Theory*, vol. 59, no. 10, pp. 6405–6420, Oct. 2013.
+
+5. S.-W. Jeon and S.-Y. Chung, “[Capacity scaling of single-source multiantenna wireless networks without CSIT](https://ieeexplore.ieee.org/abstract/document/6253259),” *IEEE Transactions on Information Theory*, vol. 58, no. 11, pp. 6870–6878, Nov. 2012.
+
+6. S.-W. Jeon and M. Gastpar, “[A survey on interference networks: Interference alignment and neutralization](https://www.mdpi.com/1099-4300/14/10/1842),” *Entropy*, Special Issue on Information Theory Applied to Communications and Networking, vol. 14, no. 10, pp. 1842–1863, Sep. 2012. (Invited Paper)
+
+7. T. Gou, S. A. Jafar, C. Wang, S.-W. Jeon, and S.-Y. Chung, “[Aligned interference neutralization and the degrees of freedom of the 2 × 2 × 2 interference channel](https://ieeexplore.ieee.org/abstract/document/6120282),” *IEEE Transactions on Information Theory*, vol. 58, no. 7, pp. 4381–4395, Jul. 2012.
+
+8. S. Chae, S.-W. Jeon, and S.-Y. Chung, “[Cooperative relaying for the rank-deficient MIMO relay interference channel](https://ieeexplore.ieee.org/abstract/document/6093681),” *IEEE Communications Letters*, vol. 16, no. 1, pp. 9–11, Jan. 2012.
+
+9. W.-Y. Shin, S.-W. Jeon, N. Devroye, M. Vu, S.-Y. Chung, Y. Lee, and V. Tarokh, “[Improved capacity scaling in wireless networks with infrastructure](https://ieeexplore.ieee.org/abstract/document/5961816),” *IEEE Transactions on Information Theory*, vol. 57, no. 7, pp. 5088–5102, Aug. 2011.
+
+10. S.-W. Jeon, N. Devroye, M. Vu, S.-Y. Chung, and V. Tarokh, “[Cognitive networks achieve throughput scaling of a homogeneous network](https://ieeexplore.ieee.org/abstract/document/5961815),” *IEEE Transactions on Information Theory*, vol. 57, no. 8, pp. 5103–5115, Aug. 2011.
+
+11. S.-W. Jeon, S.-Y. Chung, and S. A. Jafar, “[Degrees of freedom region of a class of multisource Gaussian relay networks](https://ieeexplore.ieee.org/abstract/document/5752422),” *IEEE Transactions on Information Theory*, Special Issue on Interference Networks, vol. 57, no. 5, pp. 3032–3044, May 2011.
+
+12. D.-W. Seo, S.-W. Jeon, S.-Y. Chung, and J. Kim, “[Rate enhancement for the Gaussian Z-interference channel with transmitter cooperation](https://ieeexplore.ieee.org/abstract/document/5535253),” *IEEE Communications Letters*, vol. 14, no. 9, pp. 821–823, Sep. 2010.
+
