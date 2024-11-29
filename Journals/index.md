@@ -10,6 +10,12 @@ nav:
 
 # **Published/Accepted**
 
+<style>
+  ol {
+    line-height: 1.2;
+  }
+</style>
+
 
 1. F.-F. Wei, W.-N. Chen, X.-Q. Guo, B. Zhao, S.-W. Jeon, and J. Zhang, “[CrowdEC: Crowdsourcing-based Evolutionary Computation for distributed optimization](https://ieeexplore.ieee.org/abstract/document/10618890),” *IEEE Transactions on Services Computing*, to appear.
 
