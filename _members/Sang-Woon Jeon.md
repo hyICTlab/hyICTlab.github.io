@@ -2,6 +2,7 @@
 name: Sang-Woon Jeon
 image: images/professor.jpg
 affiliation: Hanyang University
+description: Department of Military Information Engineering(Undergraduate);<br>Department of Electrical and Electronic Engineering(Graduate);<br>Hanyang University
 role: professor
 links:
   home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
@@ -10,9 +11,9 @@ links:
 ## Research Areas
 
 **AI-based network management**
-&nbsp;&nbsp;- Multiple-access via reinforcement learning
-&nbsp;&nbsp;- Learning-based distributed resource management
-&nbsp;&nbsp;- Learning-based V2X and V2V communication
+- Multiple-access via reinforcement learning
+- Learning-based distributed resource management
+- Learning-based V2X and V2V communication
 
 **Caching and computing for big data applications**
 - Wireless caching
@@ -24,9 +25,9 @@ links:
 - Interference management for full-duplex radio
 - IoT platform
 
-&nbsp;&nbsp;&nbsp;&nbsp;Department of Military Information Engineering (Undergraduate)
+Department of Military Information Engineering (Undergraduate)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Department of Electrical and Electronic Engineering (Graduate)
+Department of Electrical and Electronic Engineering (Graduate)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hanyang University
+&nbsp;Hanyang University
 
