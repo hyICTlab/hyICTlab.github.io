@@ -10,13 +10,10 @@ nav:
 
 # **Published/Accepted**
 
-<style>
-  ol {
-    line-height: 0.8;
-  }
-</style>
 
 
+
+<p style="line-height: 1.1;">
 1. F.-F. Wei, W.-N. Chen, X.-Q. Guo, B. Zhao, S.-W. Jeon, and J. Zhang, “[CrowdEC: Crowdsourcing-based Evolutionary Computation for distributed optimization](https://ieeexplore.ieee.org/abstract/document/10618890),” *IEEE Transactions on Services Computing*, to appear.
 2. Q. Yang, J.-W. Ji, X. Lin, X.-M. Hu, X.-D. Gao, P.-L. Xu, H. Zhao, Z.-Y. Lu, S.-W. Jeon, and J. Zhang, “[Bi-directional ensemble differential evolution for global optimization](https://www.sciencedirect.com/science/article/pii/S0957417424011114),” *Expert Systems with Applications*, vol. 252, pp. 1–19, Oct. 2024.
 3. N. U. Saqib, S. Hou, S. H. Chae, and S.-W. Jeon, “[Reconfigurable intelligent surface aided hybrid beamforming: Optimal placement and beamforming design](https://ieeexplore.ieee.org/abstract/document/10505148),” *IEEE Transactions on Wireless Communications*, vol. 23, no. 9, pp. 12003–12019, Sep. 2024.
@@ -96,4 +93,4 @@ nav:
 10. S.-W. Jeon, N. Devroye, M. Vu, S.-Y. Chung, and V. Tarokh, “[Cognitive networks achieve throughput scaling of a homogeneous network](https://ieeexplore.ieee.org/abstract/document/5961815),” *IEEE Transactions on Information Theory*, vol. 57, no. 8, pp. 5103–5115, Aug. 2011.
 11. S.-W. Jeon, S.-Y. Chung, and S. A. Jafar, “[Degrees of freedom region of a class of multisource Gaussian relay networks](https://ieeexplore.ieee.org/abstract/document/5752422),” *IEEE Transactions on Information Theory*, Special Issue on Interference Networks, vol. 57, no. 5, pp. 3032–3044, May 2011.
 12. D.-W. Seo, S.-W. Jeon, S.-Y. Chung, and J. Kim, “[Rate enhancement for the Gaussian Z-interference channel with transmitter cooperation](https://ieeexplore.ieee.org/abstract/document/5535253),” *IEEE Communications Letters*, vol. 14, no. 9, pp. 821–823, Sep. 2010.
-
+</p>
