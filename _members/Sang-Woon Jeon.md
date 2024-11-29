@@ -25,11 +25,11 @@ links:
     Advanced communication techniques for 5G and internet of things
 </div>
 
-<div style="margin-left: 10px; text-align: left;"> 1. Fog multiple-access </div>
+<div style="margin-left: 20px; text-align: left;"> 1. Fog multiple-access </div>
 
-<div style="margin-left: 10px; text-align: left;"> 2. Interference management for full-duplex radio </div>
+<div style="margin-left: 20px; text-align: left;"> 2. Interference management for full-duplex radio </div>
 
-<div style="margin-left: 10px; text-align: left;"> 3. IoT platform </div>
+<div style="margin-left: 20px; text-align: left;"> 3. IoT platform </div>
 
 
 
