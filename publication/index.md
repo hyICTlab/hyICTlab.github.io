@@ -46,3 +46,17 @@ nav:
 
 9. Z.-J. Wang, Z.-H. Zhan, Y. Li, S. Kwong, S.-W. Jeon, and J. Zhang, “[Fitness and distance based local search with adaptive differential evolution for multimodal optimization problems](https://ieeexplore.ieee.org/abstract/document/10021865),” *IEEE Transactions on Emerging Topics in Computational Intelligence*, vol. 7, no. 3, pp. 684–699, Jun. 2023.
 
+1. J.-Q. Yang, Q.-T. Yang, K.-J. Du, C.-H. Chen, H. Wang, S.-W. Jeon, J. Zhang, and Z.-H. Zhan, “[Bi-directional feature fixation-based particle swarm optimization for large-scale feature selection](https://ieeexplore.ieee.org/abstract/document/10002858),” *IEEE Transactions on Big Data*, vol. 9, no. 3, pp. 1004–1017, Jun. 2023.
+
+2. W. Zhou, X. Xiao, Y.-J. Gong, J. Chen, J. Fang, N. Tan, N. Ma, Q. Li, C. Hua, S.-W. Jeon, and J. Zhang, “[Travel time distribution estimation by learning representations over temporal attributed graphs](https://ieeexplore.ieee.org/abstract/document/10075054),” *IEEE Transactions on Intelligent Transportation Systems*, vol. 24, no. 5, pp. 5069–5081, May 2023.
+
+3. D. Liu, H. He, Q. Yang, Y. Wang, S.-W. Jeon, and J. Zhang, “[Function value ranking aware differential evolution for global numerical optimization](https://www.sciencedirect.com/science/article/pii/S2210650223000561),” *Swarm and Evolutionary Computation*, vol. 78, pp. 1–20, Apr. 2023.
+
+4. J. Zhang, D. Chen, Q. Yang, Y. Wang, D. Liu, S.-W. Jeon, and J. Zhang, “[Proximity ranking-based multimodal differential evolution](https://www.sciencedirect.com/science/article/pii/S2210650223000512),” *Swarm and Evolutionary Computation*, vol. 78, pp. 1–21, Apr. 2023.
+
+5. Y.-J. Gong, T. Huang, Y.-N. Ma, S.-W. Jeon, and J. Zhang, “[MTrajPlanner: A multiple-trajectory planning algorithm for autonomous underwater vehicles](https://ieeexplore.ieee.org/abstract/document/10038633),” *IEEE Transactions on Intelligent Transportation Systems*, vol. 24, no. 4, pp. 3714–3727, Apr. 2023.
+
+6. Q. Yang, G.-W. Song, X.-D. Gao, Z.-Y. Lu, S.-W. Jeon, and J. Zhang, “[A random elite ensemble learning swarm optimizer for high-dimensional optimization](https://link.springer.com/article/10.1007/s40747-023-00993-w),” *Complex & Intelligent Systems*, pp. 1–34, Mar. 2023.
+
+7. Y. Song, S. H. Lim, and S.-W. Jeon, “[Handover decision making for dense hetnets: A reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/10064273),” *IEEE Access*, vol. 11, pp. 24737–24751, Mar. 2023.
+
