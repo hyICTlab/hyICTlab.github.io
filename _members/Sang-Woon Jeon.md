@@ -1,8 +1,10 @@
 ---
+
 name: Sang-Woon Jeon
 image: images/professor.jpg
 affiliation: Hanyang University
 role: professor
+
 links:
   home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: sangwoonjeon@hanyang.ac.kr
@@ -19,10 +21,10 @@ links:
 - Computation over networks
 - Adaptation and learning via big data
 
-  &nbsp;&nbsp; **Advanced communication techniques for 5G and internet of things**
-  &nbsp;&nbsp; - Fog multiple-access
-  &nbsp;&nbsp; - Interference management for full-duplex radio
-  &nbsp;&nbsp; - IoT platform
+   **Advanced communication techniques for 5G and internet of things**
+   - Fog multiple-access
+   - Interference management for full-duplex radio
+   - IoT platform
 
 
 
