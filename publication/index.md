@@ -92,4 +92,18 @@ nav:
 
 8. S. H. Chae, S.-W. Jeon, and S.-K. Ahn, “[Spatially modulated integer-forcing transceivers with practical binary codes](https://ieeexplore.ieee.org/abstract/document/8820169),” *IEEE Transactions on Wireless Communications*, vol. 12, no. 12, pp. 5542–5556, Dec. 2019.
 
+1. S.-W. Jeon, B. C. Jung, H. Lee, and J. Park, “[Interference coordination for heterogeneous users in asynchronous fog radio access networks](https://ieeexplore.ieee.org/abstract/document/8669736),” *IEEE Wireless Communications Letters*, vol. 8, no. 4, pp. 1064–1068, Aug. 2019.
 
+2. S. H. Chae, S.-W. Jeon, and C. Jeong, “[Efficient resource allocation for IoT cellular networks in the presence of inter-band interference](https://ieeexplore.ieee.org/abstract/document/8669793),” *IEEE Transactions on Communications*, vol. 67, no. 6, pp. 4299–4308, Jun. 2019.
+
+3. T.-A. Do, S.-W. Jeon, and W.-Y. Shin, “[How to cache in mobile hybrid IoT networks?](https://ieeexplore.ieee.org/abstract/document/8658080),” *IEEE Access*, vol. 7, pp. 27814–27828, Mar. 2019.
+
+4. H.-S. Cha, S.-W. Jeon, and D. K. Kim, “[Blind interference alignment for the K-user MISO BC under limited symbol extension](https://ieeexplore.ieee.org/abstract/document/8316908),” *IEEE Transactions on Signal Processing*, vol. 66, no. 11, pp. 2861–2875, Jun. 2018.
+
+5. M. Yang, S.-W. Jeon, and D. K. Kim, “[Interference management for in-band full-duplex vehicular access networks](https://ieeexplore.ieee.org/abstract/document/8055641),” *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1820–1824, Feb. 2018.
+
+6. S. H. Chae, S. H. Lim, and S.-W. Jeon, “[Degrees of freedom of full-duplex multiantenna cellular networks](https://ieeexplore.ieee.org/abstract/document/7282579),” *IEEE Transactions on Wireless Communications*, vol. 17, no. 2, pp. 982–995, Feb. 2018.
+
+7. D. K. P. Asiedu, S. Mahama, S.-W. Jeon, and K.-J. Lee, “[Optimal power splitting for simultaneous wireless information and power transfer in amplify-and-forward multiple-relay systems](https://ieeexplore.ieee.org/abstract/document/8274932),” *IEEE Access*, vol. 6, pp. 3459–3468, Jan. 2018.
+
+8. S.-W. Jeon and B. C. Jung, “[Adaptive analog function computation via fading multiple-access channels](https://ieeexplore.ieee.org/abstract/document/8086203),” *IEEE Communications Letters*, vol. 22, no. 1, pp. 213–216, Jan. 2018.
