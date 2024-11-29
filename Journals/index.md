@@ -1,11 +1,13 @@
 ---
-title: publicaton
+title: Journals
+
 nav:
   order: 4
-  tooltip: Software, datasets, and more
+  tooltip: Journals
+s
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Publicatons
+# {% include icon.html icon="fa-solid fa-wrench" %}Journal publicatons
 
 # **Published/Accepted**
 
