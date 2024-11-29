@@ -2,7 +2,6 @@
 name: Sang-Woon Jeon
 image: images/professor.jpg
 affiliation: Hanyang University
-description: Department of Military Information Engineering(Undergraduate);<br>Department of Electrical and Electronic Engineering(Graduate);<br>Hanyang University
 role: professor
 links:
   home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
@@ -25,9 +24,9 @@ links:
 - Interference management for full-duplex radio
 - IoT platform
 
-Department of Military Information Engineering (Undergraduate)
+>>>>>>>>> Department of Military Information Engineering (Undergraduate)
 
-Department of Electrical and Electronic Engineering (Graduate)
+>>>>>>>>> Department of Electrical and Electronic Engineering (Graduate)
 
-&nbsp;Hanyang University
+>>>>>>>>> Hanyang University
 
