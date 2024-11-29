@@ -12,7 +12,7 @@ nav:
 
 <style>
   ol {
-    line-height: 1.2;
+    line-height: 0.8;
   }
 </style>
 
