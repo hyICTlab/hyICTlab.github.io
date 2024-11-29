@@ -18,21 +18,13 @@ nav:
 
 
 1. F.-F. Wei, W.-N. Chen, X.-Q. Guo, B. Zhao, S.-W. Jeon, and J. Zhang, “[CrowdEC: Crowdsourcing-based Evolutionary Computation for distributed optimization](https://ieeexplore.ieee.org/abstract/document/10618890),” *IEEE Transactions on Services Computing*, to appear.
-
 2. Q. Yang, J.-W. Ji, X. Lin, X.-M. Hu, X.-D. Gao, P.-L. Xu, H. Zhao, Z.-Y. Lu, S.-W. Jeon, and J. Zhang, “[Bi-directional ensemble differential evolution for global optimization](https://www.sciencedirect.com/science/article/pii/S0957417424011114),” *Expert Systems with Applications*, vol. 252, pp. 1–19, Oct. 2024.
-
 3. N. U. Saqib, S. Hou, S. H. Chae, and S.-W. Jeon, “[Reconfigurable intelligent surface aided hybrid beamforming: Optimal placement and beamforming design](https://ieeexplore.ieee.org/abstract/document/10505148),” *IEEE Transactions on Wireless Communications*, vol. 23, no. 9, pp. 12003–12019, Sep. 2024.
-
 1. P.-F. Sun, J.-Y. Li, M.-Y. Li, Z.-Y. Gao, H. Jin, S.-W. Jeon, and J. Zhang, “[Tour multi-route planning with matrix-based differential evolution](https://ieeexplore.ieee.org/abstract/document/10492693),” *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 9, pp. 11753–11767, Sep. 2024.
-
 2. Q. Yang, G.-W. Song, W.-N. Chen, Y.-H. Jia, X.-D. Gao, Z.-Y. Lu, S.-W. Jeon, and J. Zhang, “[Random contrastive interaction for particle swarm optimization in high-dimensional environment](https://ieeexplore.ieee.org/abstract/document/10129112),” *IEEE Transactions on Evolutionary Computation*, vol. 28, no. 4, pp. 933–949, Aug. 2024.
-
 3. X.-X. Xu, J.-Y. Li, X.-F. Liu, X.-Q. Ding, S.-W. Jeon, and Z.-H. Zhan, “[A co-evolutionary multi-population evolutionary algorithm for dynamic multi objective optimization](https://www.sciencedirect.com/science/article/pii/S221065022400186X),” *Swarm and Evolutionary Computation*, vol. 89, pp. 1–15, Aug. 2024.
-
 4. M. Sohaib, S.-W. Jeon, and W. Yu, “[Hybrid online–offline learning for task offloading in mobile edge computing systems](https://ieeexplore.ieee.org/abstract/document/10346997),” *IEEE Transactions on Wireless Communications*, vol. 23, no. 7, pp. 6873–6888, Jul. 2024.
-
 5. S. H. Chae and S.-W. Jeon, “[Rate splitting for multi-user downlink cellular networks with hybrid beamforming](https://ieeexplore.ieee.org/abstract/document/10436566),” *IEEE Transactions on Communications*, vol. 72, no. 6, pp. 3338–3351, Jun. 2024.
-
 6. M. Kang and S.-W. Jeon, “[Energy-efficient data aggregation and collection for multi-UAV-enabled IoT networks](https://ieeexplore.ieee.org/abstract/document/10409618),” *IEEE Wireless Communications Letters*, vol. 13, no. 4, pp. 1004–1008, Apr. 2024.
 
 1. C. Wang, B. Sun, J.-Y. Li, K.-J. Du, Z.-H. Zhan, S.-W. Jeon, H. Wang, and J. Zhang, “[A novel evolutionary algorithm with column and sub-block local search for Sudoku puzzles](https://ieeexplore.ieee.org/abstract/document/10015696),” *IEEE Transactions on Games*, vol. 16, no. 1, pp. 162–172, Mar. 2024.
