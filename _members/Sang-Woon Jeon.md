@@ -21,17 +21,15 @@ links:
 - Computation over networks
 - Adaptation and learning via big data
 
-<div style="margin-left: 20px; font-weight: bold;"> **Advanced communication techniques for 5G and internet of things** </div>
-<style>
-ul {
-    margin-left: 20px;
-}
-</style>
-<ul>
+<div style="margin-left: 20px; font-weight: bold;"> Advanced communication techniques for 5G and internet of things </div>
+<div style="margin-left: 20px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Fog multiple-access</li>
     <li>Interference management for full-duplex radio</li>
     <li>IoT platform</li>
-</ul>
+  </ul>
+</div>
+
 
 
 
