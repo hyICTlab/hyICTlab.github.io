@@ -19,14 +19,10 @@ links:
 - Computation over networks
 - Adaptation and learning via big data
 
-**Advanced communication techniques for 5G and internet of things**
-- Fog multiple-access
-- Interference management for full-duplex radio
-- IoT platform
+      **Advanced communication techniques for 5G and internet of things**
+      - Fog multiple-access
+      - Interference management for full-duplex radio
+      - IoT platform
 
->>>>>>>>> Department of Military Information Engineering (Undergraduate)
 
->>>>>>>>> Department of Electrical and Electronic Engineering (Graduate)
-
->>>>>>>>> Hanyang University
 
