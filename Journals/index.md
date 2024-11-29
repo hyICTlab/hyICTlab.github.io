@@ -4,7 +4,6 @@ title: Journals
 nav:
   order: 4
   tooltip: Journals
-s
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Journal publicatons
