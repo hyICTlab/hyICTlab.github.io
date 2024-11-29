@@ -1,8 +1,8 @@
 ---
-title: conference
+title: Conference
 nav:
   order: 5
-  tooltip: conferences
+  tooltip: Conferences
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Conference publicatons
