@@ -10,9 +10,9 @@ links:
 ## Research Areas
 
 **AI-based network management**
-- Multiple-access via reinforcement learning
-- Learning-based distributed resource management
-- Learning-based V2X and V2V communication
+&nbsp;&nbsp;- Multiple-access via reinforcement learning
+&nbsp;&nbsp;- Learning-based distributed resource management
+&nbsp;&nbsp;- Learning-based V2X and V2V communication
 
 **Caching and computing for big data applications**
 - Wireless caching
@@ -24,9 +24,9 @@ links:
 - Interference management for full-duplex radio
 - IoT platform
 
-Department of Military Information Engineering (Undergraduate)
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Military Information Engineering (Undergraduate)
 
-Department of Electrical and Electronic Engineering (Graduate)
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Electrical and Electronic Engineering (Graduate)
 
-Hanyang University
+&nbsp;&nbsp;&nbsp;&nbsp;Hanyang University
 
