@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}**Journal publicatons**
 
+<div style="margin-bottom: 20px;">
+  <a href="#submittedrevision" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;">Submitted</a>
+  <a href="#publishedaccepted" style="text-decoration: none; padding: 10px 20px; background-color: #28A745; color: white; border-radius: 5px; margin-left: 10px;">Published</a>
+</div>
+
 # Submitted/Revision
 
 1. Z.-K. Shao, K. Gao, G.-J. Hahm, K.-Y. Cheon, H. Kwon, S. Park, C. Zhou, Z. Zheng, and S.-W. Jeon, "Multi-RAT enabled edge computing for URLLC and eMBB services: Cooperative evolutionary computation approach," submitted to *IEEE Transactions on Wireless Communications*.
