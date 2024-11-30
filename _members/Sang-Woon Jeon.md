@@ -9,7 +9,7 @@ links:
   home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: sangwoonjeon@hanyang.ac.kr
 ---
-## Research Areas
+# Research Areas
 
 **AI-based network management**
 1. Multiple-access via reinforcement learning

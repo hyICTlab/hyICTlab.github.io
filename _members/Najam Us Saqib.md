@@ -8,9 +8,9 @@ links:
   email: najamussaqib4@gmail.com
 ---
 
-# Ph. D. Program since 2019. 3
+## Ph. D. Program since 2019. 3
 
-## Research interests
+# Research interests
 
 **Machine learning**
 

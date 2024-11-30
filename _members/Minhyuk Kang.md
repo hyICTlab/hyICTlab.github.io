@@ -8,9 +8,9 @@ links:
   email: minhyukkang@hanyang.ac.kr
 ---
 
-# Ph. D. Program since 2017. 9
+## Ph. D. Program since 2017. 9
 
-## Research interests
+# Research interests
 
 **IoT Platforms**
 
