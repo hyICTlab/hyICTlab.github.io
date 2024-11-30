@@ -1,6 +1,6 @@
 ---
 name: Sung-Hwan Song
-image: images/yukai.jpg
+image: images/sunghwan.jpg
 affiliation: Hanyang University
 role: ms
 links:

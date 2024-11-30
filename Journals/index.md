@@ -7,6 +7,47 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Journal publicatons
 
+# **Submitted/Revision**
+
+1. Z.-K. Shao, K. Gao, G.-J. Hahm, K.-Y. Cheon, H. Kwon, S. Park, C. Zhou, Z. Zheng, and S.-W. Jeon, "Multi-RAT enabled edge computing for URLLC and eMBB services: Cooperative evolutionary computation approach," submitted to *IEEE Transactions on Wireless Communications*.
+
+2. L. Chen, W. Liu, H. Wang, S.-W. Jeon, Y. Jiang, and Z. Zheng, "Consistency-guided adaptive alternating training for semi-supervised salient object detection," submitted to *IEEE Transactions on Circuits and Systems for Video Technology*.
+
+3. P.-F. Sun, X.-M. Hu, W.-N. Chen, S.-W. Jeon, and J. Zhang, "Matrix-based competitive swarm optimizer," submitted to *IEEE Transactions on Evolutionary Computation*.
+
+4. J. Tang, X.-M. Hu, S.-W. Jeon, and W.-N. Chen, "Robust water surface ship detection via multi-modal fusion of radar and camera in bird’s-eye view," submitted to *IEEE Transactions on Intelligent Transportation Systems*.
+
+5. N. U. Saqib, G. Zhu, S. H. Chae, C. Zhou, Z. Zheng, and S.-W. Jeon, "Reinforcement learning-based multi-agent beam tracking for multi-RIS hybrid beamforming," in revision for *IEEE Transactions on Wireless Communications*.
+
+6. Y.-T. Liu, X.-M. Hu, W.-J. Qiu, X.-C. Liao, S.-W. Jeon, and W.-N. Chen, "Ant colony optimization for AGV task scheduling in an up-down stream task decoupled robotic mobile fulfillment system," submitted to *IEEE Transactions on Systems, Man and Cybernetics: Systems*.
+
+7. K. Gao, J. Song, C. Zhou, Z. Zheng, and S.-W. Jeon, "Task offloading and scheduling under hard deadlines in vehicular edge computing systems," in revision for *IEEE Transactions on Vehicular Technology*.
+
+8. Y. Bai, P.-F. Sun, W.-J. Yu, J.-H. Zhong, S.-W. Jeon, S. Kwong, and J. Zhang, "UAV path planning for data collection from wireless sensor network with matrix-based evolutionary computation," submitted to *IEEE Transactions on Intelligent Transportation Systems*.
+
+9. R. Li, D. Zhang, Y. Wang, Y. Jiang, Z. Zheng, S.-W. Jeon, and H. Wang, "Open-vocabulary multi-object tracking with domain generalized and temporally adaptive features," submitted to *IEEE Transactions on Multimedia*.
+
+10. P.-F. Sun, Y. Song, K. Gao, Y. Wang, C. Zhou, S.-W. Jeon, and J. Zhang, "3D UAV trajectory planning for IoT data collection via matrix-based evolutionary computation," submitted to *IEEE Transactions on Vehicular Technology*.
+
+11. X.-L. Shi, F.-F. Wei, X.-M. Hu, S.-W. Jeon, J. Zhang, and W.-N. Chen, "Influence maximization in distributed multilayer networks with a multi-agent ant colony system," submitted to *IEEE Transactions on Systems, Man and Cybernetics: Systems*.
+
+12. J. Tang, X.-M. Hu, S.-W. Jeon, and W.-N. Chen, "Light-YOLO: A lightweight detection algorithm based on multi-scale feature enhancement for infrared small ship target," submitted to *Complex & Intelligent Systems*.
+
+13. J. Tang, X.-M. Hu, Q. Tong, S.-W. Jeon, and W.-N. Chen, "Multi-scale aware detection transformer for robust ship targeting in complex environments," submitted to *Applied Soft Computing Journal*.
+
+14. G. Yang, F.-F. Wei, X.-M. Hu, S.-W. Jeon, J. Zhang, and W.-N. Chen, "An Asynchronous Distributed Cooperative Co-evolutionary Algorithm for Multilayer Influence Maximization," in revision for *IEEE Transactions on Computational Social Systems*.
+
+15. S. Chae and S.-W. Jeon, "Reconfigurable intelligent surface aided integer forcing MIMO," in revision for *IEEE Transactions on Wireless Communications*.
+
+16. M. A. M Elhassan, C. Zhou, D. Zhu, A. B. M. Adam, A. Benabid, A. Khan, A. Mehmood, J. Zhang, J. Hu, and S.-W. Jeon, "CSNet: Cross-stage subtraction network for real-time semantic segmentation in autonomous driving," in revision for *IEEE Transactions on Intelligent Transportation Systems*.
+
+17. J. Song and S.-W. Jeon, "Optimal batch allocation for wireless federated learning," in revision for *IEEE Internet of Things Journal*.
+
+18. H. Xie, S.-W. Jeon, and H. Jin, "Distributed real-time control for minimizing AoI in random access networks," in revision for *IEEE Internet of Things Journal*.
+
+19. Y. Song, J. Jeong, S. H. Lim, and S.-W. Jeon, "Online learning for joint beam tracking and pattern optimization in massive MIMO systems," in revision for *IEEE Access*. 
+
+
 # **Published/Accepted**
 
 1. F.-F. Wei, W.-N. Chen, X.-Q. Guo, B. Zhao, S.-W. Jeon, and J. Zhang, “[CrowdEC: Crowdsourcing-based Evolutionary Computation for distributed optimization](https://ieeexplore.ieee.org/abstract/document/10618890),” *IEEE Transactions on Services Computing*, pp. 1-14, Jul., 2024.
