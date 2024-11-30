@@ -57,43 +57,9 @@
   </a> -->
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+  
 
   <nav>
-    <!-- 添加返回主页的导航项 -->
-    <a href="{{ "/" | relative_url | uri_escape }}" data-tooltip="Home">Home</a>
-  
-    {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
-      | sort: "nav.order"
-    %}
-    {% for page in pages %}
-      {% if page.nav %}
-        {% if page.nav.submenu %}
-          <!-- 父级菜单，带子菜单 -->
-          <div class="dropdown">
-            <a href="{{ page.dir | relative_url | uri_escape }}" class="dropdown-toggle" data-tooltip="{{ page.nav.tooltip | xml_escape }}">
-              {{ page.title }} ▼
-            </a>
-            <div class="dropdown-menu">
-              {% for submenu in page.nav.submenu %}
-                <a href="{{ submenu.url | relative_url | uri_escape }}" data-tooltip="{{ submenu.tooltip | xml_escape }}">
-                  {{ submenu.title }}
-                </a>
-              {% endfor %}
-            </div>
-          </div>
-        {% else %}
-          <!-- 普通导航项 -->
-          <a href="{{ page.dir | relative_url | uri_escape }}" data-tooltip="{{ page.nav.tooltip | xml_escape }}">
-            {{ page.title }}
-          </a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </nav>
-  
-
-  <!-- <nav>
     <a
       href="{{ "/" | relative_url | uri_escape }}"
       data-tooltip="Home"
@@ -115,7 +81,7 @@
         </a>
       {% endif %}
     {% endfor %}
-  </nav> -->
+  </nav>
   
 
 </header>
