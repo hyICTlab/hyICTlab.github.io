@@ -26,7 +26,7 @@ Our international research team comprises graduate students, doctoral candidates
 
 {%
   include feature.html
-  image="images/members.jpg"
+  image="images/congratulations.jpg"
   link="team"
   title="Our members"
   text=text
