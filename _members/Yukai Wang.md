@@ -11,9 +11,8 @@ links:
 
 # Research interests
 
-**Machine learning**
+**Wireless communication**
 
-**Hybrid beamforming**
 
 
 

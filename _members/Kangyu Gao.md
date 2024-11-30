@@ -11,9 +11,11 @@ links:
 
 # Research interests
 
-**Machine learning**
+**Task offloading in MEC**
 
-**Al-enabled resource management**
+**Holographic MIMO**
+
+**Optimization algorithms design**
 
 
 

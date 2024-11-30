@@ -1,9 +1,10 @@
 ---
 name: Peifa Sun
-image: images/icon.jpg
+image: images/peifa.jpg
 affiliation: Hanyang University
 role: phd
 links:
+  home-page: https://scholar.google.com/citations?hl=en&user=eWVNkVQAAAAJ
   email: pfsun@hanyang.ac.kr 
 ---
 
@@ -11,9 +12,11 @@ links:
 
 # Research interests
 
-**Machine learning**
+**UAV Communication**
 
-**Al-enabled resource management**
+**Machine Learning**
+
+**Evolutionary Computation**
 
 
 
