@@ -5,9 +5,9 @@ nav:
   tooltip: Conferences
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Conference publicatons
+# {% include icon.html icon="fa-solid fa-wrench" %}**Conference publicatons**
 
-# **Published/Accepted**
+# Published/Accepted
 
 1. P.-F. Sun, J.-Y. Li, M.-Y. Li, Z.-Y. Gao, H. Jin, S.-W. Jeon, and J. Zhang, “[Tour routes planning with matrix-based differential evolution](https://ieeexplore.ieee.org/abstract/document/10392339),” in Proc. International Conference on ICT Convergence (ICTC), Jeju Island, Korea, Oct. 2023.
 2. Y. Wang, J.-Y. Li, P.-F. Sun, and S.-W. Jeon, “[Fuzzy logic-based differential evolution for energy-efficient UAV path planning](https://ieeexplore.ieee.org/abstract/document/10393210),” in Proc. International Conference on ICT Convergence (ICTC), Jeju Island, Korea, Oct. 2023.
