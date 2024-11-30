@@ -16,3 +16,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}M. S. Students
 
 {% include list.html data="members" component="portrait" filter="role == 'ms'" %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
+
+{% include list.html data="members" component="portrait" filter="role == 'Alumni'" %}

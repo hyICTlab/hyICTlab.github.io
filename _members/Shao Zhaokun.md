@@ -13,9 +13,9 @@ links:
 
 **Mobile edge computing**
 
-**mechine learning** 
+**Mechine learning** 
 
-**evolutionary computation**
+**Evolutionary computation**
 
 
 
