@@ -10,7 +10,7 @@ proofer: false
 links:
   google-scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: sangwoonjeon@hanyang.ac.kr
-  github: https://github.com/dashboard
+  github: https://github.com/hyICTlab/hyICTlab.github.io
 
 ### jekyll settings
 
@@ -67,4 +67,4 @@ include:
 exclude:
   - README.md
   - LICENSE.md
-  - CITATION.cff
+  # - CITATION.cff
