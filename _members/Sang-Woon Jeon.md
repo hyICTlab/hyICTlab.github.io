@@ -19,7 +19,7 @@ links:
 **Caching and computing for big data applications**
 1. Wireless caching
 1. Computation over networks
-<div style="margin-left: 230px; text-align: left; line-height: 2.7;"> 3. Adaptation and learning via big data </div>
+<div style="margin-left: 230px; text-align: left; line-height: 1.7;"> 3. Adaptation and learning via big data </div>
 
 <div style="margin-left: 248px; font-weight: bold; text-align: left; line-height: 3.3;">
     Advanced communication techniques for 5G and internet of things
