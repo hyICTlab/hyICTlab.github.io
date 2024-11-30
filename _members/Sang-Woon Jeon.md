@@ -21,7 +21,7 @@ links:
 1. Computation over networks
 <div style="margin-left: 230px; text-align: left; line-height: 0.5;"> 3. &nbsp;&nbsp; Adaptation and learning via big data </div>
 
-<div style="margin-left: 248px; font-weight: bold; text-align: left; line-height: 4;">
+<div style="margin-left: 248px; font-weight: bold; text-align: left; line-height: 3.3;">
     Advanced communication techniques for 5G and internet of things
 </div>
 
