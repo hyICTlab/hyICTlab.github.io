@@ -1,6 +1,6 @@
 ---
 name: Peifa Sun
-image: images/peifa.jpg
+image: images/peifa.jpeg
 affiliation: Hanyang University
 role: phd
 links:
