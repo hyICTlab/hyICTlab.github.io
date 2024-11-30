@@ -7,7 +7,7 @@ links:
   email: gaokangyu@hanyang.ac.kr 
 ---
 
-## M.S./Ph. D  Combined Program since 2022. 9
+## M.S./Ph. D.  Combined Program since 2022. 9
 
 # Research interests
 

@@ -1,14 +1,13 @@
 ---
-
-name: Sohaib Muhammad
-image: images/sohaib.jpg
+name: Peifa Sun
+image: images/icon.jpg
 affiliation: Hanyang University
 role: phd
 links:
-  email: muhammadsohaib828@gmail.com
+  email: pfsun@hanyang.ac.kr 
 ---
 
-## M.S./Ph. D.  Combined Program since 2019. 9
+## Ph. D. Program since 2022. 9
 
 # Research interests
 
