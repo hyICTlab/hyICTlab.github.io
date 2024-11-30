@@ -1,13 +1,15 @@
 ---
 
 name: Minhyuk Kang
-image: images/Minhyuk.jpg
+image: images/Minhyuk.jpeg
 affiliation: Hanyang University
 role: phd
 links:
-  home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: minhyukkang@hanyang.ac.kr
 ---
+
+# Ph. D. Program since 2017. 9
+
 ## Research interests
 
 **IoT Platforms**

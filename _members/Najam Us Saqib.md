@@ -5,9 +5,11 @@ image: images/najam.jpg
 affiliation: Hanyang University
 role: phd
 links:
-  home-page: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
   email: najamussaqib4@gmail.com
 ---
+
+# Ph. D. Program since 2019. 3
+
 ## Research interests
 
 **Machine learning**
