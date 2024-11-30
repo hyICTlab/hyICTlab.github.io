@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  google-scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=8dnrnzsAAAAJ
+  email: sangwoonjeon@hanyang.ac.kr
+  github: https://github.com/dashboard
 
 ### jekyll settings
 

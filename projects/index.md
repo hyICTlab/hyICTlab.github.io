@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}**Projects**
 
+<div style="margin-bottom: 20px;">
+  <a href="#ongoing-projects" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;">Ongoing Projects</a>
+  <a href="#completed-projects" style="text-decoration: none; padding: 10px 20px; background-color: #28A745; color: white; border-radius: 5px; margin-left: 10px;">Completed Projects</a>
+</div>
+
 # Ongoing Projects
 
 - Principal investigator, Development of technology to respond to marine fires and chemical accidents using wearable devices, National Research Foundation of Korea, 2022.04 - 2025.12.
