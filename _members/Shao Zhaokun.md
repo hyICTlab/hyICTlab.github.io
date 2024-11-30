@@ -1,5 +1,5 @@
 ---
-name: Shao Zhaokun
+name: Zhaokun Shao 
 image: images/Shao Zhaokun.jpg
 affiliation: Hanyang University
 role: phd
@@ -11,7 +11,11 @@ links:
 
 # Research interests
 
-**MEC mechine learning evolutionary computation**
+**Mobile edge computing**
+
+**mechine learning** 
+
+**evolutionary computation**
 
 
 
