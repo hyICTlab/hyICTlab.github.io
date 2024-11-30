@@ -19,7 +19,7 @@ phd:
   description: Ph. D. Student
 
 ms:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-code
   description: M.S. Student
 
 undergrad:
