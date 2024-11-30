@@ -67,4 +67,4 @@ include:
 exclude:
   - README.md
   - LICENSE.md
-  # - CITATION.cff
+  - CITATION.cff

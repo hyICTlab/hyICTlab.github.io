@@ -7,7 +7,7 @@ pi:
   description: Principal Investigator
 
 professor:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-tie
   description: Professor
 
 postdoc:

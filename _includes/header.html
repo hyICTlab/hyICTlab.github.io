@@ -41,6 +41,14 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
+    <!-- 添加返回主页的导航项 -->
+    <a
+      href="{{ "/" | relative_url | uri_escape }}"
+      data-tooltip="Home"
+    >
+      Home
+    </a>
+  
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
@@ -56,4 +64,23 @@
       {% endif %}
     {% endfor %}
   </nav>
+  
+<!--
+  <nav>
+    {% assign pages = site.pages
+      | where_exp: "page", "page.nav"
+      | sort: "nav.order"
+    %}
+    {% for page in pages %}
+      {% if page.nav %}
+        <a
+          href="{{ page.dir | relative_url | uri_escape }}"
+          data-tooltip="{{ page.nav.tooltip | xml_escape }}"
+        >
+          {{ page.title }}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </nav>
+-->
 </header>
