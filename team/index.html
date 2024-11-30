@@ -456,6 +456,11 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
+    <!-- 添加返回主页的导航项 -->
+    <a href="/" data-tooltip="Home">
+      Home
+    </a>
+  
     
     
       
@@ -483,6 +488,49 @@
       
     
   </nav>
+  
+<!--
+  <nav>
+    
+    
+      
+        <a
+          href="/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
+          href="/projects/"
+          data-tooltip="Software, datasets, and more"
+        >
+          Projects
+        </a>
+      
+    
+      
+        <a
+          href="/Journals/"
+          data-tooltip="Journals"
+        >
+          Journals
+        </a>
+      
+    
+      
+        <a
+          href="/conference/"
+          data-tooltip="Conferences"
+        >
+          Conference
+        </a>
+      
+    
+  </nav>
+-->
 </header>
 
     <main>
@@ -509,7 +557,7 @@
 <div class="portrait-wrapper">
   <a href="/members/Sang-Woon%20Jeon.html" class="portrait" data-style="" aria-label="Sang-Woon Jeon">
     
-      <i class="icon fa-solid fa-graduation-cap"></i>
+      <i class="icon fa-solid fa-user-tie"></i>
     
 
     <img src="/images/professor.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
@@ -942,16 +990,16 @@
 
     
   </div>
-
+<!--
   <div>
-    © 2024
+    &copy; 2024
     Hanyang ICT lab
-      |   Built with
+    &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
   </div>
-
+-->
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
