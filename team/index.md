@@ -17,6 +17,4 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'ms'" %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
-
-{% include list.html data="members" component="portrait" filter="role == 'Alumni'" %}
+# {% include icon.html icon="fa-solid fa-users" %}[Alumni](/team/Alumni)
